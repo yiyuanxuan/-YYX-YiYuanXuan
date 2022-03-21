@@ -6,7 +6,7 @@
 ### 永久網址
 https://yyx.ddns.net
 ### 最新網址
-https://yiyuanxuan.ddns.net
+https://yiyuanxuan.net
 
 # 简体中文
 亿量资源 ， 坚决无广告。
@@ -14,7 +14,7 @@ https://yiyuanxuan.ddns.net
 ### 永久网址
 https://yyx.ddns.net
 ### 最新网址
-https://yiyuanxuan.ddns.net
+https://yiyuanxuan.net
 
 # English
 Billion resources, resolutely said no to advertisement.
@@ -22,4 +22,4 @@ Billion resources, resolutely said no to advertisement.
 ### Permanent URL
 https://yyx.ddns.net
 ### Latest URL
-https://yiyuanxuan.ddns.net
+https://yiyuanxuan.net
